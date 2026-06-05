@@ -82,7 +82,7 @@ Excel – Data cleaning
 
 Power Query – ETL transformations
 
-DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for agre groups and satisfaction scoring
+DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for age groups and satisfaction scoring
 
 Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter plots, line charts, gauge.
 
@@ -168,3 +168,33 @@ The goal of the analysis was to evaluate surgeon performance, compare predicted 
 **Dashboard Overview:**
 ![Cardiac surgery](cardiac.png)
 
+
+# Project 6
+
+**Title:** [Superstore sales data](https://github.com/Jumoke-Lucas/Jumoke.github.io/blob/main/Superstore%20data%20dashboard.pbix)
+
+**Tools Used:** Power BI – Data modelling, DAX calculations, interactive dashboards
+
+Power Query – ETL transformations
+
+DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for agre groups and satisfaction scoring
+
+Data Visualization Techniques – KPI cards, Bar charts, pie charts, slicers, liner chart.
+
+**Project Description:** This project involved developing an interactive Power BI dashboard to analyse sales, profit, shipping behaviour and operational performance for a retail superstore. The dashboard visualises key business metrics such as total sales, total profit, number of orders and product count. It also breaks down performance across product categories, shipping modes, order priorities, and geographic regions. Time‑series analysis was incorporated to track shipping cost trends over multiple years, helping the business understand cost fluctuations and potential supply chain issues.
+
+**Key findings:**
+- The business processed 6K orders across 1K products, generating 8.95M in total sales and 1.31M in total profit.
+- Profit varies across product categories and regions.
+- Technology is the most profitable category, contributing the largest share of total profit.
+- Furniture shows lower profitability, indicating higher costs or discounting.
+- Average shipping cost varies by category, with Furniture typically incurring higher shipping expenses.
+- The West and East regions generate the highest total sales.
+- Profit distribution shows strong performance in the West, while the South region contributes the least profit.
+- Regular Air is the most commonly used shipping mode, followed by Delivery Truck and Express Air.
+- Shipping cost trends fluctuate over the years, indicating potential changes in logistics pricing or supplier contracts.
+
+This report supports data‑driven decision‑making by highlighting high‑performing regions, profitable product categories, and operational patterns that influence customer experience and profitability.
+
+**Dashboard Overview:**
+![superstore](Superstoore.jpeg)
