@@ -157,7 +157,7 @@ Key analysis performed :
 
 **Key findings:**
 - CABG and Valve surgeries were the most common operation types.
-- Aorta surgery and Major cardiac procedures were performed by a smaller subset of surgeons
+- Aorta surgery and Major cardiac procedures were performed by a smaller subset of surgeons.
 - Actual mortality was generally lower than predicted for most surgeons.
 - Model 1 and Model 2 predictions were directionally consistent but differed in magnitude.
 - Elective cases had the longest waiting times, as expected.
