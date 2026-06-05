@@ -177,9 +177,9 @@ The goal of the analysis was to evaluate surgeon performance, compare predicted 
 
 Power Query – ETL transformations
 
-DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for agre groups and satisfaction scoring
+DAX – Measures for KPIs
 
-Data Visualization Techniques – KPI cards, Bar charts, pie charts, slicers, liner chart.
+Data Visualization Techniques – KPI cards, Bar charts, pie charts, slicers, line chart.
 
 **Project Description:** This project involved developing an interactive Power BI dashboard to analyse sales, profit, shipping behaviour and operational performance for a retail superstore. The dashboard visualises key business metrics such as total sales, total profit, number of orders and product count. It also breaks down performance across product categories, shipping modes, order priorities, and geographic regions. Time‑series analysis was incorporated to track shipping cost trends over multiple years, helping the business understand cost fluctuations and potential supply chain issues.
 
@@ -259,3 +259,54 @@ Key analysis performed :
 **Dashboard Overview:**
 ![Vrinda](Vrinda.jpeg)
 
+
+# Project 9
+
+**Title:** [Palmoria workforce & compensation analysis](https://github.com/Jumoke-Lucas/Jumoke.github.io/blob/main/Palmoria%20workforce%20and%20compensation%20analysis.pbix)
+
+**Tools Used:** Power BI – Data modelling, DAX calculations, interactive dashboards
+
+Excel – Data cleaning 
+
+Power Query – ETL transformations
+
+DAX – Measures for KPIs
+
+Data Visualization Techniques – Column charts, bar charts, donut charts, text boxes, slicer
+
+**Project Description:** This project involved analysing workforce and compensation data. The goal was to uncover patterns in employee demographics, salary distribution, gender representation and bonus allocation with a specific focus on gender pay equity and compliance with minimum wage requirements.
+
+**Key findings:**
+1. Overview
+- The organisation employs 874 employees across 12 departments
+- Total salary paid stands at ₦69.54M
+
+2. Gender Distribution
+- Some departments show notable gender imbalance, suggesting gaps in diversity hiring
+
+3. Minimum Salary Compliance
+- Regulation requires manufacturing companies to pay a minimum of ₦90,000
+- At least one male employee at Palmoria currently earns ₦28,150 which is below the legal minimum and therefore not fully compliant with minimum wage regulations
+
+4. Gender Pay Gap
+- A gender pay gap exists across several departments
+- The Training department shows a relatively balanced pay gap between men and women
+- Departments like Product Management, Legal, Support and Accounting show a larger gender pay gap with men earning more. This flags management level pay equity as an area requiring attention
+
+5. Salary Range by Location
+-  Salary ranges vary across locations
+- Some locations have employees earning below the required minimum 
+
+6. Bonus Distribution
+- Bonuses were calculated per employee and analysed by department and gender
+- The Total Salary Plus Bonus charts show which departments and genders receive the highest total compensation
+ - Disparities in bonus allocation further compound the gender pay gap
+
+7. Ratings by Gender
+- Performance ratings were broken down by gender across rating categories
+- This helps identify whether performance evaluation processes may carry any gender bias
+
+The dashboard was built to present these insights in a clear, interactive format for HR and leadership decision-making.
+
+**Dashboard Overview:**
+![Palmoria](Palmoria.jpeg)
