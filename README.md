@@ -49,7 +49,7 @@ This analysis provides actionable insights into patient demographics, clinical o
 
 # Project 2 
 
-**Title:** SQL Data Query and Data Manipulation language - Football players data 
+**Title:** SQL (DDL,DQL,DML) - Football players data 
 
 **SQL Code:** [Football players data](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/Football_data.sql)
 
@@ -108,4 +108,29 @@ Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter pl
 ![hr6](HR6.png)
 
 
+# Project 4 
+
+**Title:** SQL (DML,DQL) - Workplace safety data 
+
+**SQL Code:** [Workplace safety data](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/Workplace_safety_data.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Retrieved incident counts, cost summaries, days lost, gender distribution, age‑group patterns, shift‑based incident counts, and monthly/yearly trends using multiple SELECT statements.
+
+Data Aggregation (SUM, COUNT, AVG, MAX):Calculated total incident cost per department, total days lost per incident type, maximum days lost per incident type, average incident cost per injury location, total incidents per month/year, and highest‑cost incident type.
+
+Data Cleaning:
+Replaced NULL values in Incident_Cost with 0. Checked for duplicates across all columns to ensure dataset integrity for all analysis.
+
+Grouping & Categorization (GROUP BY):Grouped data by Plant, Department, Incident_Type, Shift, Age_Group, Gender, Month and Year to uncover patterns and trends.
+
+Sorting & Ranking (ORDER BY): Ordered results by incident counts, total days lost, total cost and highest‑cost incidents to identify top contributors and trends.
+
+Limiting Results (TOP):Used TOP 1 to identify the plant with the highest number of Near Miss incidents and the incident type with the highest cost.
+
+Rounding & Formatting (ROUND): Rounded average incident cost values for cleaner reporting.
+
+**Project Description:** This project an SQL analysis of workplace safety incidents across multiple plants, departments, and shifts. Using SQL, the dataset was explored to uncover patterns in incident frequency, cost, severity, and demographic impact. The goal was to help safety managers identify high‑risk areas, reduce incident rates, and improve workplace safety policies.
+
+**Technology used:** SQL server(SSMS)
 
