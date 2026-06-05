@@ -100,16 +100,12 @@ Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter pl
 - Income increases consistently with job level, education, and years of experience.
 
 **Dashboard Overview:**
-![hr1](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR1.png)
+![hr1](HR1.png)
+![hr2](HR2.png)
+![hr3](HR3.png)
+![hr4](HR4.png)
+![hr5](HR5.png)
+![hr6](HR6.png)
 
-![hr2](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR2.png)
-
-![hr3](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR3.png)
-
-![hr4](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR4.png)
-
-![hr5](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR5.png)
-
-![hr6](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR6.png)
 
 
