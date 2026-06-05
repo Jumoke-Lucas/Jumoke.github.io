@@ -4,7 +4,7 @@
 
 **Title:** [Healthcare Exploratory Dashboard](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/healthcare_prediction_data.xlsx)
 
-**Tools Used:** Microsoft Excel (Pivot table, Powere query editor, slicers, conditional formatting, text box)
+**Tools Used:** Microsoft Excel (Pivot table, Power query editor, slicers, conditional formatting, text box)
 
 **Project description:** Conducted a comprehensive exploratory analysis of a large scale healthcard dataset. This project features an interactive dashboard that allows users explore healthcard data across multiple dimensions.
 The dashboard includes the following features:
@@ -72,5 +72,39 @@ This project involved an end-to-end SQL analysis of football players dataset usi
 
 
 
+# Project 3 
+
+**Title:** [HR Analytics Dashboard for Workforce, Attrition & Performance Insights](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR%20attrition.pbix)
+
+**Tools Used:** Power BI – Data modelling, DAX calculations, interactive dashboards
+
+Excel – Data cleaning 
+
+Power Query – ETL transformations
+
+DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for agre groups and satisfaction scoring
+
+Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter plots, line charts, gauge.
+
+**Project Description:** This project involved developing a comprehensive HR Analytics Dashboard to help leadership understand workforce demographics, attrition patterns, employee satisfaction, income distribution, and career progression. I built a multi‑page interactive Power BI report that provides actionable insights into workforce demographics, retention risks, and performance indicators across departments, job roles, age groups, and job levels.
+
+**Key findings:**
+- The company employs 1.47K staff with Research & Development being the largest department.
+- Average employee age is 37, and average monthly income is 6.50K.
+- Male employees (882) outnumber female employees (588).
+- Attrition rate is 16.12% with 237 employees leaving and 1.23K active employees remaining.
+- 72 employees (4.9%) are due for promotion, with long gaps since last promotion in several job roles.
+- Employees between the ages of 18–35 show higher attrition.
+- Overtime workers have significantly higher attrition rates
+- Job satisfaction varies widely, with some roles scoring below the overall average of 2.73/4.00.
+- Income increases consistently with job level, education, and years of experience.
+
+**Dashboard Overview:**
+![hr1](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR1.png)
+![hr2](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR2.png)
+![hr3](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR3.png)
+![hr4](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR4.png)
+![hr5](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR5.png)
+![hr6](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR6.png)
 
 
