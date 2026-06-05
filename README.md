@@ -220,3 +220,42 @@ Sorting & Ranking (ORDER BY): Ordered results by names
 **Project Description:** This project involves writing and executing a comprehensive set of SQL join queries against a database containing 3 tables: Salesman, Customer and Order. The analysis explored relationships  between salespeople and their customers. 
 
 **Technology used:** SQL server(SSMS)
+
+
+# Project 8
+
+**Title:** [Vrinda store data](https://github.com/Jumoke-Lucas/Jumoke.github.io/blob/main/Vrinda%20store%20data.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot table, Power query editor, slicers, text box)
+
+**Project description:** Conducted a sales data analysis for Vrinda store, an online retail business sellinhg across multiple ecommerce platforms. The project involves analysisng sales performance and order fulfilment using microsoft excel.  
+The dashboard includes the following features:
+
+Interactive slicers to filter by month, channel and category. 
+
+Dynamic charts (Column charts, Pie charts, Bar charts) updating automatically with slicer selection
+
+Key analysis performed : 
+
+- Tracked total orders by each month 
+- Tracked total sales by each month 
+- identified peak and low sales period 
+- Analysed sales split between female and male customers
+- Ranked channels by revenue contribution
+- Monitored delivery rate success
+- Tracked cancellation, refund and return rates
+- Identified top 10 satates with highest sales
+- Identified most popula outfit type by order volume
+- Identified top selling sizes across all products
+   
+**Key findings:**
+- Sales peaked in early months of the year with gradual decline towards the end of the year
+- Female customers accounted for  the majority of sales significantly more than male customers, suggesting female oriented product range 
+- Amazon was the highest performing sales channel by total order amount
+- Set and Kurta are the top most highest ordered outfit types
+- M and L sizes were the most populat sizes ordered
+- Cancellation, refund and return rates were minimal indicating good fulfilment efficiency
+  
+**Dashboard Overview:**
+![Vrinda](Vrinda.jpeg)
+
